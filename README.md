@@ -1,9 +1,10 @@
 ## 05-DESIGN-AND-ANALYSIS-OF-MICROSTRIP-ANTENNA-USING-CST-MICROWAVE-STUDIO (LAYOUT)
 
-# **Aim of the Experiment:** To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms
+# Aim of the Experiment: 
+To design a quarter wave transformer for matching a 50 Ohm microstrip line with a load of 123 Ohms
 Software to be used: CST studio suite 2019 (Student edition)
 
-## **Design:**
+## Design:
 
 **Mathematical Calculation**
 
@@ -14,7 +15,7 @@ Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm
 Length of the quarter wave line = 18mmLamda g =72 , Lamda not=128
 Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4 Ghzc, Ε eff=3.024
 
-## **	Design of microstrip line terminated with the desired load**
+## Design of microstrip line terminated with the desired load
 
 
 <img width="621" height="185" alt="image" src="https://github.com/user-attachments/assets/908adc01-814f-450c-b969-7e1342681af4" />
@@ -26,7 +27,7 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 <img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/f7d30519-56c3-4642-b446-7b93a7a1e33b" />
 
 
-## **	Design of microstrip line terminated with quarter wave line and the desired load**
+## 	Design of microstrip line terminated with quarter wave line and the desired load
 
 
 <img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/4fcf36a6-131b-45e0-b569-8f50565faf0e" />
